@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "rpg",
+    "slug": "rpg",
+    "newArchEnabled": true,
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
